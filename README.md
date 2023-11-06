@@ -1,2 +1,2 @@
-# Amazon Colne
-This is a cone of Amazon made by me using html and css only
+# Amazon Clone
+This is a clone of Amazon made by me using html and css only
